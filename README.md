@@ -12,7 +12,7 @@ Quantum Computing is quite literally what I have been betting my life on since I
 
 So, if you are here because you googled key words to implement stuff, and yet, oddly enough stumble upon this site know this: it is worth it. 
 
-And I hope that the tutorials you found here are helpful - and hopefully readable. I have tried my best to follow the feedback I go from Stefan at X of making every colab notebook pedagogical.
+And I hope that the tutorials you found here are helpful - and hopefully readable. I have tried my best to follow the feedback I got from Stefan at X of making every colab notebook pedagogical.
 
 Please contact me if you have any feedback that can make any of these tutorials helpful. 
 
