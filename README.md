@@ -4,7 +4,7 @@ This started as a repository to implement Farhi's papers on Quantum Neural Netwo
 
 But it evolved into something more meaningful: this repository is my journal of the many times, many efforts and shots I have taken to join a residency, internship, or any kind of program on quantum computing. 
 
-Goes without saying, it has been a hard road but a instructive one: to push myself to learn optimization methods, physics theory, and bits and bits of programming geared towards quantum computing has been quite an experience. 
+Goes without saying, it has been a hard road but an instructive one: to push myself to learn optimization methods, physics theory, and bits and bits of programming geared towards quantum computing has been quite an experience. 
 
 I do hope I somehow, one day, make it to a good PhD in quantum information and computing, and then on to internships, a postdoc, and hopefully, a staff scientist job in this field. 
 
